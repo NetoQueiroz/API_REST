@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rnJnCfFFQpVgIYwT759gLh10Pe6lhuL2PxHB+/hlgf5XxE6vEUAHIjRZ3YhAfOEft4ix1Hr9NBE/4RaO55MeRg==",
+  "dgSpecHash": "PTX7eSONkQlaXmDHOeWwNgEwmw0Ha3KkVjAKRhz2IyD0zSTObitJJET1fROfeGTkwPK3fa2CzJSPqignK6YW4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Neto_TMC\\Documents\\API REST\\WebApplication1\\Manager.Core\\Manager.Core.csproj",
+  "projectFilePath": "C:\\Users\\User\\source\\repos\\API_REST\\Manager.Core\\Manager.Core.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

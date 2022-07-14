@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Neto_TMC\\Documents\\API REST\\WebApplication1\\Manager.Services\\Manager.Services.csproj": {}
+    "C:\\Users\\User\\source\\repos\\API_REST\\Manager.Services\\Manager.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Neto_TMC\\Documents\\API REST\\WebApplication1\\Manager.Services\\Manager.Services.csproj": {
+    "C:\\Users\\User\\source\\repos\\API_REST\\Manager.Services\\Manager.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Neto_TMC\\Documents\\API REST\\WebApplication1\\Manager.Services\\Manager.Services.csproj",
+        "projectUniqueName": "C:\\Users\\User\\source\\repos\\API_REST\\Manager.Services\\Manager.Services.csproj",
         "projectName": "Manager.Services",
-        "projectPath": "C:\\Users\\Neto_TMC\\Documents\\API REST\\WebApplication1\\Manager.Services\\Manager.Services.csproj",
-        "packagesPath": "C:\\Users\\Neto_TMC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Neto_TMC\\Documents\\API REST\\WebApplication1\\Manager.Services\\obj\\",
+        "projectPath": "C:\\Users\\User\\source\\repos\\API_REST\\Manager.Services\\Manager.Services.csproj",
+        "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\User\\source\\repos\\API_REST\\Manager.Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\Neto_TMC\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
